@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 160" width="840" height="160" role="img" aria-label="Suwin Michael D Souza: Algorithmic Game Theory, Market Design, Stochastic Operations">
+  <defs>
+    <marker
+      id="arrow-dark"
+      viewBox="0 0 8 8"
+      refX="6.8"
+      refY="4"
+      markerWidth="7"
+      markerHeight="7"
+      markerUnits="userSpaceOnUse"
+      orient="auto"
+    >
+      <path
+        d="M 1.5 1.5 L 6.8 4 L 1.5 6.5"
+        fill="none"
+        stroke="#8b949e"
+        stroke-width="1.2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </marker>
+  </defs>
+
+  <!-- Left typographic lockup (x=0 to x=540) -->
+  <g>
+    <text
+      x="2"
+      y="76"
+      fill="#e6edf3"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="34"
+      font-weight="400"
+      letter-spacing="-0.2"
+    >Suwin Michael D Souza</text>
+
+    <text
+      x="2"
+      y="104"
+      fill="#8b949e"
+      font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+      font-size="10.5"
+      font-weight="400"
+      letter-spacing="1"
+    >ALGORITHMIC GAME THEORY · MARKET DESIGN · STOCHASTIC OPERATIONS</text>
+  </g>
+
+  <!-- Right quotient network schematic (x=560 to x=820) -->
+  <g>
+    <!-- Dashed coalition boundary -->
+    <ellipse
+      cx="652"
+      cy="78"
+      rx="25"
+      ry="54"
+      fill="none"
+      stroke="#8b949e"
+      stroke-opacity="0.55"
+      stroke-width="1.1"
+      stroke-dasharray="3.5 3"
+    />
+    <text
+      x="675"
+      y="27"
+      fill="#8b949e"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-style="italic"
+      font-size="10.5"
+    >S</text>
+
+    <!-- Directed edges (1.2px) -->
+    <g fill="none" stroke="#8b949e" stroke-width="1.2" stroke-linecap="round" marker-end="url(#arrow-dark)">
+      <line x1="590.9" y1="75.0" x2="644.2" y2="51.4" />
+      <line x1="590.9" y1="81.0" x2="644.2" y2="104.6" />
+      <line x1="652.0" y1="55.5" x2="652.0" y2="99.5" />
+      <line x1="659.0" y1="50.8" x2="719.6" y2="74.7" />
+      <line x1="659.0" y1="105.2" x2="719.6" y2="81.3" />
+      <line x1="659.5" y1="48.0" x2="789.5" y2="48.0" />
+      <line x1="735.4" y1="74.8" x2="790.2" y2="51.4" />
+      <line x1="735.4" y1="81.2" x2="790.2" y2="104.6" />
+    </g>
+
+    <!-- Network nodes -->
+    <g fill="none" stroke="#e6edf3" stroke-width="1.2">
+      <circle cx="584" cy="78" r="4.5" />
+      <circle cx="652" cy="48" r="4.5" />
+      <circle cx="652" cy="108" r="4.5" />
+      <circle cx="798" cy="48" r="4.5" />
+      <circle cx="798" cy="108" r="4.5" />
+    </g>
+
+    <!-- Single muted accent node (quotient clearing vertex) -->
+    <circle cx="728" cy="78" r="5" fill="#58a6ff" />
+
+    <!-- Mathematical node labels -->
+    <g fill="#8b949e" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="10.5">
+      <text x="573" y="81" text-anchor="end">v<tspan font-style="normal" font-size="7.5" dy="2.5">1</tspan></text>
+      <text x="652" y="37" text-anchor="middle">v<tspan font-style="normal" font-size="7.5" dy="2.5">2</tspan></text>
+      <text x="652" y="123" text-anchor="middle">v<tspan font-style="normal" font-size="7.5" dy="2.5">3</tspan></text>
+      <text x="728" y="97" text-anchor="middle">v<tspan font-style="normal" font-size="7.5" dy="2.5">4</tspan></text>
+      <text x="808" y="51" text-anchor="start">v<tspan font-style="normal" font-size="7.5" dy="2.5">5</tspan></text>
+      <text x="808" y="111" text-anchor="start">v<tspan font-style="normal" font-size="7.5" dy="2.5">6</tspan></text>
+    </g>
+  </g>
+
+  <!-- Full-width 1px bottom rule -->
+  <line x1="0" y1="159.5" x2="840" y2="159.5" stroke="#30363d" stroke-width="1" />
+</svg>
