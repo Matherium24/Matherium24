@@ -22,7 +22,7 @@ Research in market design, dynamic trading networks, cooperative game theory, an
 
 <br>
 
-## Selected Research
+## My Research in GitHub
 
 **[GameTheory](https://github.com/Matherium24/GameTheory)**: An open-source Julia package for representing and solving finite strategic-form and extensive-form games using directed graph structures (`Graphs.jl`) and linear programming (`JuMP.jl` with `HiGHS`).
 
