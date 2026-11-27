@@ -37,9 +37,22 @@ Research in market design, dynamic trading networks, cooperative game theory, an
 
 ## Computational Stack
 
-- **Optimization & Solvers:** Julia, JuMP
-- **Analysis & Computing:** Python, R, C/C++, MATLAB, Wolfram Mathematica
-- **Typesetting:** LaTeX
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=julia,py,r,c,cpp,matlab,latex&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=julia,py,r,c,cpp,matlab,latex&theme=light"
+  />
+  <img
+    alt="Computational Stack: Julia, Python, R, C, C++, MATLAB, LaTeX"
+    src="https://skillicons.dev/icons?i=julia,py,r,c,cpp,matlab,latex&theme=light"
+  />
+</picture>
+
+*Also working with `JuMP` (`HiGHS`), `Graphs.jl`, and Wolfram Mathematica.*
 
 <br>
 
