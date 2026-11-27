@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="60" fill="#242938" />
+  <g stroke="#7F0909" stroke-width="1.5" stroke-linejoin="round">
+    <polygon points="116,92 128,42 128,128" fill="#FF4429" />
+    <polygon points="128,42 140,92 128,128" fill="#CC1414" />
+    <polygon points="140,92 179,58 128,128" fill="#FF3B22" />
+    <polygon points="179,58 159,106 128,128" fill="#B80E0E" />
+    <polygon points="159,106 210,101 128,128" fill="#EE2414" />
+    <polygon points="210,101 166,128 128,128" fill="#A60B0B" />
+    <polygon points="166,128 210,155 128,128" fill="#E01D14" />
+    <polygon points="210,155 159,150 128,128" fill="#990A0A" />
+    <polygon points="159,150 179,198 128,128" fill="#D91914" />
+    <polygon points="179,198 140,164 128,128" fill="#990A0A" />
+    <polygon points="140,164 128,214 128,128" fill="#E01D14" />
+    <polygon points="128,214 116,164 128,128" fill="#A60B0B" />
+    <polygon points="116,164 77,198 128,128" fill="#EE2414" />
+    <polygon points="77,198 97,150 128,128" fill="#B80E0E" />
+    <polygon points="97,150 46,155 128,128" fill="#FF3B22" />
+    <polygon points="46,155 90,128 128,128" fill="#CC1414" />
+    <polygon points="90,128 46,101 128,128" fill="#FF4D33" />
+    <polygon points="46,101 97,106 128,128" fill="#D41714" />
+    <polygon points="97,106 77,58 128,128" fill="#FF5438" />
+    <polygon points="77,58 116,92 128,128" fill="#CC1414" />
+    <polygon points="128,96 156,118 146,152 110,152 100,118" fill="#E61E19" fill-opacity="0.35" />
+  </g>
+</svg>

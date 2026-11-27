@@ -37,22 +37,26 @@ Research in market design, dynamic trading networks, cooperative game theory, an
 
 ## Computational Stack
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=julia,py,r,c,cpp,matlab,latex&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=julia,py,r,c,cpp,matlab,latex&theme=light"
-  />
-  <img
-    alt="Computational Stack: Julia, Python, R, C, C++, MATLAB, LaTeX"
-    src="https://skillicons.dev/icons?i=julia,py,r,c,cpp,matlab,latex&theme=light"
-  />
-</picture>
+**Optimization & Solvers**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=julia&theme=dark" width="48" height="48" alt="Julia" title="Julia" />
+  <img src="assets/icon-jump-dark.svg" width="48" height="48" alt="JuMP" title="JuMP" />
+</p>
 
-*Also working with `JuMP` (`HiGHS`), `Graphs.jl`, and Wolfram Mathematica.*
+**Analysis & Computing**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" title="R" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB" title="MATLAB" />
+  <img src="assets/icon-mathematica-dark.svg" width="48" height="48" alt="Wolfram Mathematica" title="Wolfram Mathematica" />
+</p>
+
+**Typesetting**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=latex&theme=dark" width="48" height="48" alt="LaTeX" title="LaTeX" />
+</p>
 
 <br>
 
