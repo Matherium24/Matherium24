@@ -37,7 +37,7 @@ Research in market design, dynamic trading networks, cooperative game theory and
 
 ## Computational Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=julia&theme=dark" width="48" height="48" alt="Julia" title="Julia" />
   <img src="assets/icon-jump-dark.svg" width="48" height="48" alt="JuMP" title="JuMP" />
   <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" title="Python" />
